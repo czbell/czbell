@@ -1,0 +1,26 @@
+{
+  "containers": [
+    {
+      "name": "czbell",
+      "domain": "",
+      "ip": "",
+      "containerId": "3b3e51fbdd8513f1561637feb9bc13b3b7b28b8ca58315b224ee20cc237427bb"
+    }
+  ],
+  "config": {
+    "czbell": {
+      "containerPort": 80,
+      "dockerfilePath": "./Dockerfile",
+      "buildDir": "",
+      "minNum": 0,
+      "maxNum": 10,
+      "cpu": 1,
+      "mem": 2,
+      "policyType": "cpu",
+      "policyThreshold": 80,
+      "envParams": {},
+      "customLogs": "stdout",
+      "initialDelaySeconds": 2
+    }
+  }
+}
