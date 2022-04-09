@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DockerTest
 build_property.RootNamespace = DockerTest
-build_property.ProjectDir = /Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/
+build_property.ProjectDir = /Users/czbell/WeChatProjects/miniprogram-2/czbell/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest
+build_property.MSBuildProjectDirectory = /Users/czbell/WeChatProjects/miniprogram-2/czbell
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/Error.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/Index.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/Privacy.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/_ViewImports.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/_ViewStart.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/Pages/Shared/_Layout.cshtml]
+[/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1tsno8xgqp
