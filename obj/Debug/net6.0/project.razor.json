@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/aspnetapp.csproj",
+  "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,33 +16298,63 @@
   "RootNamespace": "aspnetapp",
   "Documents": [
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/_ViewStart.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/Error.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/Index.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/aspnetapp/Pages/_ViewStart.cshtml",
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/Error.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/old/aspnetapp/Pages/_ViewImports.cshtml",
+      "TargetPath": "old\\aspnetapp\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
