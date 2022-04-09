@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest/DockerTest.csproj": {}
+    "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest.csproj": {}
   },
   "projects": {
-    "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest/DockerTest.csproj": {
+    "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest/DockerTest.csproj",
+        "projectUniqueName": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest.csproj",
         "projectName": "DockerTest",
-        "projectPath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest/DockerTest.csproj",
+        "projectPath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest.csproj",
         "packagesPath": "/Users/czbell/.nuget/packages/",
-        "outputPath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/DockerTest/obj/",
+        "outputPath": "/Users/czbell/WeChatProjects/miniprogram-2/czbell/DockerTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/czbell/.nuget/NuGet/NuGet.Config"
