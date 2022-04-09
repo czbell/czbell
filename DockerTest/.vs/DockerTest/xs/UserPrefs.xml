@@ -1,5 +1,30 @@
 ﻿<Properties StartupConfiguration="{2BB2DA35-658D-41F3-AAC6-642ACE12E4CA}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DockerTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerTest/container.config.json">
+    <Files>
+      <File FileName="DockerTest/Controllers/PersonController.cs" Line="19" Column="10" />
+      <File FileName="DockerTest/Program.cs" Line="25" Column="1" />
+      <File FileName="DockerTest/Dockerfile" Line="20" Column="13" />
+      <File FileName="DockerTest/container.config.json" Line="10" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerTest" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>request</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
