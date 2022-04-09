@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{FDD4C10F-50BF-4F72-831F-07D556510844}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DockerTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PersonController.cs">
     <Files>
-      <File FileName="Dockerfile" Line="14" Column="28" />
+      <File FileName="Dockerfile" Line="15" Column="1" />
+      <File FileName="container.config.json" Line="14" Column="27" />
+      <File FileName="Controllers/PersonController.cs" Line="12" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DockerTest" expanded="True">
             <Node name="DockerTest" expanded="True">
-              <Node name="docker-compose.yml" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="container.config.json" selected="True" />
             </Node>
           </Node>
         </State>
