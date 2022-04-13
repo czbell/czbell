@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -21,6 +22,21 @@ public class IndexModel : PageModel
         {
             Query.Add(kv.Key, kv.Value);
         }
+
+        string? path = Path.GetDirectoryName(typeof(Program).Assembly.Location);
+
+        string filepath = $"/{path}/{DateTime.Now.Minute}{DateTime.Now.Second}.txt";
+
+        if (System.IO.File.Exists(filepath))
+        {
+            System.IO.File.Delete(filepath);
+        }
+
+        var file = System.IO.File.Create(filepath);
+
+        string txt = DateTime.Now.ToString();
+        byte[] txtBytes = Encoding.UTF8.GetBytes(txt);
+        file.Write(txtBytes, 0, txtBytes.Length);
 
     }
 }
