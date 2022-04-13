@@ -8,4 +8,10 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<div>
+    Query:@foreach(var kv in Model.Query!)
+            {
+                <div>@kv.Key : @kv.Value </div>
+            }
+</div>
 
