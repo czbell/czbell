@@ -9,6 +9,8 @@ public class IndexModel : PageModel
 {
 
     public Dictionary<string, string> Query { get; set; } = new Dictionary<string, string>();
+    public string? Path { get; set; }
+
     private readonly ILogger<IndexModel> _logger;
 
     public IndexModel(ILogger<IndexModel> logger)
@@ -23,9 +25,9 @@ public class IndexModel : PageModel
             Query.Add(kv.Key, kv.Value);
         }
 
-        string? path = Path.GetDirectoryName(typeof(Program).Assembly.Location);
+        Path = System.IO.Path.GetDirectoryName(typeof(Program).Assembly.Location);
 
-        string filepath = $"/{path}/{DateTime.Now.Minute}{DateTime.Now.Second}.txt";
+        string filepath = $"/{Path}/{DateTime.Now.Minute}{DateTime.Now.Second}.txt";
 
         if (System.IO.File.Exists(filepath))
         {
